@@ -1,0 +1,152 @@
+{     
+    "t5-small-128" : {
+        "model_name" : "t5-small",
+        "max_input_length" : 128,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-small-512" : {
+        "model_name" : "t5-small",
+        "max_input_length" : 512,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-small-1024" : {
+        "model_name" : "t5-small",
+        "max_input_length" : 1024,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-small-2048" : {
+        "model_name" : "t5-small",
+        "max_input_length" : 2048,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-small-4096" : {
+        "model_name" : "t5-small",
+        "max_input_length" : 4096,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },    
+    "t5-base-128" : {
+        "model_name" : "t5-base",
+        "max_input_length" : 128,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-base-512" : {
+        "model_name" : "t5-base",
+        "max_input_length" : 512,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-base-1024" : {
+        "model_name" : "t5-base",
+        "max_input_length" : 1024,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-base-2048" : {
+        "model_name" : "t5-base",
+        "max_input_length" : 2048,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-base-4096" : {
+        "model_name" : "t5-base",
+        "max_input_length" : 4096,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-large-128" : {
+        "model_name" : "t5-large",
+        "max_input_length" : 128,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-large-512" : {
+        "model_name" : "t5-large",
+        "max_input_length" : 512,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-large-1024" : {
+        "model_name" : "t5-large",
+        "max_input_length" : 1024,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-large-2048" : {
+        "model_name" : "t5-large",
+        "max_input_length" : 2048,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-large-4096" : {
+        "model_name" : "t5-large",
+        "max_input_length" : 4096,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-3b-128" : {
+        "model_name" : "t5-3b",
+        "max_input_length" : 128,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-3b-512" : {
+        "model_name" : "t5-3b",
+        "max_input_length" : 512,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-3b-1024" : {
+        "model_name" : "t5-3b",
+        "max_input_length" : 1024,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-3b-2048" : {
+        "model_name" : "t5-3b",
+        "max_input_length" : 2048,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-3b-4096" : {
+        "model_name" : "t5-3b",
+        "max_input_length" : 4096,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },    
+    "t5-11b-128" : {
+        "model_name" : "t5-11b",
+        "max_input_length" : 128,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-11b-512" : {
+        "model_name" : "t5-11b",
+        "max_input_length" : 512,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-11b-1024" : {
+        "model_name" : "t5-11b",
+        "max_input_length" : 1024,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-11b-2048" : {
+        "model_name" : "t5-11b",
+        "max_input_length" : 2048,
+        "input_lowercase": false,
+        "output_lowercase": false
+    },
+    "t5-11b-4096" : {
+        "model_name" : "t5-11b",
+        "max_input_length" : 4096,
+        "input_lowercase": false,
+        "output_lowercase": false
+    }
+}
